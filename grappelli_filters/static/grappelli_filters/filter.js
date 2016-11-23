@@ -92,5 +92,5 @@
         });
     });
 
-})(django.jQuery);
+})(grp.jQuery);
 
